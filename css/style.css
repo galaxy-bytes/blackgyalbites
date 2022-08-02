@@ -62,12 +62,7 @@ footer {
 }
 
 /**** BUTTONS ****/
-button{
-    display: block;
-    margin:auto;
-}
-
-.openButton{
+.menu-button {
     display: block;
     width: 80%;
     padding: 3%;
@@ -95,9 +90,6 @@ button{
 
     .openButton{
         width: 50%;
-    }
-
-    .openButton{
         padding: 1%; 
     }
 
